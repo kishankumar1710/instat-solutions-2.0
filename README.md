@@ -1,1 +1,1 @@
-# instat-solutions-2.0
+# Instatsolutions
